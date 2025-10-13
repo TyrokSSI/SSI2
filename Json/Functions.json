@@ -3,7 +3,7 @@
         {
       "Name": "ChangeAppIcon",
       "Parameters": ["url", "IconTest.png"],
-      "Enabled": true
+      "Enabled": false
     }
 
   ]
