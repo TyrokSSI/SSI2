@@ -1,7 +1,7 @@
 {
   "News": [
     {
-      "ID": 1,
+      "ID": "1",
       "Title": "test",
       "Date": "2024-12-20",
       "Functions": [
