@@ -1,0 +1,16 @@
+{
+  "News": [
+    {
+      "ID": 1,
+      "Title": "Test",
+      "Date": "2024-12-20",
+      "Functions": [
+        {
+          "Function": "AddText",
+          "Parameters": ["Text 11111111111111111"]
+        }
+
+             ]
+    }
+   ]
+}
