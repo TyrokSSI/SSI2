@@ -2,8 +2,8 @@
   "Functions": [
         {
       "Name": "ChangeAppIcon",
-      "Parameters": ["url", "IconTest.png"],
-      "Enabled": false 
+      "Parameters": ["IconTest.png"],
+      "Enabled": true 
     }
 
   ]
