@@ -2,9 +2,13 @@
   "Functions": [
         {
       "Name": "ChangeAppIcon",
-      "Parameters": ["IconTest.png"],
+      "Parameters": ["https://raw.githubusercontent.com/TyrokSSI/SSI2/main/Resources/IconTest.png"],
+      "Enabled": true 
+    },
+  {
+      "Name": "ChangeAppIconBig",
+      "Parameters": ["https://raw.githubusercontent.com/TyrokSSI/SSI2/main/Resources/IconTest.png"],
       "Enabled": true 
     }
-
   ]
 }
