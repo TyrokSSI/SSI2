@@ -1,16 +1,64 @@
 {
   "News": [
     {
-      "ID": "1",
-      "Title": "test",
-      "Date": "2024-12-20",
+      "ID": "FtHuy",
+      "Title": "Welcome to SkinSelectImpact",
+      "Date": "2025-10-14",
       "Functions": [
         {
-          "Function": "AddText",
-          "Parameters": ["Text 111111111111111111"]
+          "Function": "AddStyledText",
+          "Parameters": [
+            "This application is designed to make your experience easier",
+            "color=#4FC3F7",
+            "size=16",
+            "bold=true",
+            "align=center",
+            "margin=20,10,20,10"
+          ]
+        },
+               {
+          "Function": "AddImage",
+          "Parameters": [
+            "local",
+            "SSI_Icon_2_B_512.png",
+            "height=320",
+            "align=center",
+            "stretch=uniform"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "If you like the app, feel free to leave a like and a comment.\\nYou can also share any suggestions or report any issues you find.",
+            "color=#FFD54F",
+            "size=14",
+            "bold=true",
+            "italic=true",
+            "align=center",
+            "margin=20,10,20,10"
+          ]
+        },
+        {
+          "Function": "AddButton",
+          "Parameters": [
+            "Direct Link Program",
+            "OpenUrl|https://gamebanana.com/tools/12839"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "Version 8.0 - Developed by Tyrok",
+            "color=#B0BEC5",
+            "size=11",
+            "align=center",
+            "margin=20,10,20,10"
+          ]
         }
-
-             ]
+      ]
     }
-   ]
+  ]
 }
+
+
+
