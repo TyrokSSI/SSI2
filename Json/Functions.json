@@ -3,12 +3,12 @@
         {
       "Name": "ChangeAppIcon",
       "Parameters": ["https://raw.githubusercontent.com/TyrokSSI/SSI2/main/Resources/IconTest.png"],
-      "Enabled": true 
+      "Enabled": false
     },
   {
       "Name": "ChangeAppIconBig",
       "Parameters": ["https://raw.githubusercontent.com/TyrokSSI/SSI2/main/Resources/IconTest.png"],
-      "Enabled": true 
+      "Enabled": false 
     }
   ]
 }
