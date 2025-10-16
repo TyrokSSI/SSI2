@@ -56,7 +56,141 @@
           ]
         }
       ]
+    },
+
+
+ {
+      "ID": "BugFixesV8",
+      "Title": "kW32z",
+      "Date": "2025-10-16",
+      "Functions": [
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "Some issues have been found in the application and are being fixed.",
+            "color=#FFD54F",
+            "size=16",
+            "bold=true",
+            "margin=20,10,20,10"
+          ]
+        },
+        {
+          "Function": "AddSeparator",
+          "Parameters": [
+            "height=2",
+            "color=#888888",
+            "margintop=10",
+            "marginbottom=10"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "These issues have already been detected and are being fixed:",
+            "color=#FF6666",
+            "size=14",
+            "bold=true",
+            "margin=15,5,15,5"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "- Keyviewer does not allow typing keys.",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "- The program does not read .jpg format for preview images.",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "- Resolution issues on different monitors. The program may not display correctly or may go off-screen.",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "- Some .ini readings of mods have been found and fixed.",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        },
+        {
+          "Function": "AddSeparator",
+          "Parameters": [
+            "height=2",
+            "color=#888888",
+            "margintop=10",
+            "marginbottom=10"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "Please report any errors you find in the program.",
+            "color=#FFAA33",
+            "size=12",
+            "bold=true",
+            "margin=15,5,15,5"
+          ]
+        },
+          {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "If any mod does not work correctly or gives errors with .ini reading, send me a message.",
+            "color=#FFAA33",
+            "size=12",
+            "bold=true",
+            "margin=15,5,15,5"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "You can also write anything else related to the program.",
+            "color=#FFAA33",
+            "size=12",
+            "bold=true",
+            "margin=15,5,15,5"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "Best regards\\nTyrok",
+            "color=#AAAAFF",
+            "size=14",
+            "bold=true",
+            "align=left",
+            "margin=15,10,20,10"
+          ]
+        }
+      ]
     }
+
+
+
+
+
+
+
+
+
+    
   ]
 }
 
