@@ -180,9 +180,270 @@
           ]
         }
       ]
+    },
+
+
+ {
+      "ID": "wXqfV",
+      "Title": "V8.1 Release (Test)",
+      "Date": "2025-10-18",
+      "Functions": [
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "Before releasing the new version, I need to make sure everything works correctly.",
+            "color=#FFD54F",
+            "size=16",
+            "bold=true",
+            "margin=20,10,20,10"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "This test is especially important for users who had previous issues with:",
+            "color=#FF6666",
+            "size=14",
+            "bold=true",
+            "margin=15,5,15,5"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "- Window does not maximize properly",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "- Users with multiple monitors or different resolutions",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "- Users with 4K monitors may see the program too small",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "If the program looks too small, you can change the scale in Settings. If you cannot do it from the UI, follow these steps:",
+            "color=#FFD54F",
+            "size=12",
+            "bold=true",
+            "margin=15,5,15,5"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "1. Open the program and close it.",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "2. Go to the folder Data/App_Settings.json",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "3. On the second line, find: \"ScaleApplication\": 1,",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "4. Change it to: \"ScaleApplication\": 2,",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        },
+        {
+          "Function": "AddButton",
+          "Parameters": [
+            "Download SkinSelectImapct_V8.1 Test (mega)",
+            "OpenUrl|https://mega.nz/file/VK8WCKqK#cN136bAPPaU1fYfVST09HNK_OrWtwMgaQkzMFvVsUjY"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "After testing, please let me know if the program works correctly or if issues persist. You can contact me using:",
+            "color=#FFD54F",
+            "size=12",
+            "bold=true",
+            "margin=15,5,15,5"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "- Gamebanana (public comment)",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "- Gamebanana (private message)",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "- Discord group message",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "- Discord private message (tyrok8273)",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        },
+       {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "V 8.1 changes",
+            "color=#FFD54F",
+            "size=16",
+            "bold=true",
+            "margin=15,5,15,5"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "• Fixed: JPG images are now correctly read by the program. PNG is still recommended.",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "• Fixed: Some .ini reading issues for specific mods.",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "• Fixed: KeyViewer boxes that were not writable.",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "• Fixed: Some users reported that explorer.exe stayed running after opening folders. Folders now open safely without leaving any processes behind.",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "• Fixed: Window maximized and other resolution issues.",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "• Added: Option to change program scale. If the program appears small, you can increase it to 2 (Example: 4k monitors).",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "• Added: Ability to select the monitor where the program opens.",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "• Added: Enabled - only shows characters with at least one mod enabled.",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "• Added: Disabled - only shows characters with mods and all disabled.",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "• Added: Sort Characters First Enabled - characters with at least one mod enabled appear first.",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        },
+        {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "• Added: You can resize and display only the last folder in the path text box in the main window.",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        }      ]
     }
-
-
 
 
 
