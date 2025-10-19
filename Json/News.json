@@ -185,7 +185,7 @@
 
  {
       "ID": "wXqfV",
-      "Title": "V8.1 Release (Test)",
+      "Title": "V8.1 Release (Test2)",
       "Date": "2025-10-18",
       "Functions": [
         {
@@ -284,8 +284,8 @@
         {
           "Function": "AddButton",
           "Parameters": [
-            "Download SkinSelectImapct_V8.1 Test (mega)",
-            "OpenUrl|https://mega.nz/file/VK8WCKqK#cN136bAPPaU1fYfVST09HNK_OrWtwMgaQkzMFvVsUjY"
+            "Download SkinSelectImapct_V8.1.T2 Test 2(mega)",
+            "OpenUrl|https://mega.nz/file/xW932QjA#tr-zyXXopthra7h9sPIV2yPrGkCjNdX_ilf6kzLIAb4"
           ]
         },
         {
@@ -384,6 +384,15 @@
           "Function": "AddStyledText",
           "Parameters": [
             "• Fixed: Window maximized and other resolution issues.",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+          ]
+        },
+         {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "• Fixed: Some users did not see the text of the messages in the messages window.",
             "color=#FFFFFF",
             "size=12",
             "margin=15,2,15,2"
