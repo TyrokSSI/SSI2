@@ -59,285 +59,16 @@
     },
 
 
- {
-      "ID": "kW32z",
-      "Title": "BugFixesV8",
-      "Date": "2025-10-16",
+  {
+      "ID": "rZikg",
+      "Title": "V8.1 Release",
+      "Date": "2025-10-21",
       "Functions": [
-        {
-          "Function": "AddStyledText",
-          "Parameters": [
-            "Some issues have been found in the application and are being fixed.",
-            "color=#FFD54F",
-            "size=16",
-            "bold=true",
-            "margin=20,10,20,10"
-          ]
-        },
-        {
-          "Function": "AddSeparator",
-          "Parameters": [
-            "height=2",
-            "color=#888888",
-            "margintop=10",
-            "marginbottom=10"
-          ]
-        },
-        {
-          "Function": "AddStyledText",
-          "Parameters": [
-            "These issues have already been detected and are being fixed:",
-            "color=#FF6666",
-            "size=14",
-            "bold=true",
-            "margin=15,5,15,5"
-          ]
-        },
-        {
-          "Function": "AddStyledText",
-          "Parameters": [
-            "- Keyviewer does not allow typing keys.",
-            "color=#FFFFFF",
-            "size=12",
-            "margin=15,2,15,2"
-          ]
-        },
-        {
-          "Function": "AddStyledText",
-          "Parameters": [
-            "- The program does not read .jpg format for preview images.",
-            "color=#FFFFFF",
-            "size=12",
-            "margin=15,2,15,2"
-          ]
-        },
-        {
-          "Function": "AddStyledText",
-          "Parameters": [
-            "- Resolution issues on different monitors. The program may not display correctly or may go off-screen.",
-            "color=#FFFFFF",
-            "size=12",
-            "margin=15,2,15,2"
-          ]
-        },
-        {
-          "Function": "AddStyledText",
-          "Parameters": [
-            "- Some .ini readings of mods have been found and fixed.",
-            "color=#FFFFFF",
-            "size=12",
-            "margin=15,2,15,2"
-          ]
-        },
-        {
-          "Function": "AddSeparator",
-          "Parameters": [
-            "height=2",
-            "color=#888888",
-            "margintop=10",
-            "marginbottom=10"
-          ]
-        },
-        {
-          "Function": "AddStyledText",
-          "Parameters": [
-            "Please report any errors you find in the program.",
-            "color=#FFAA33",
-            "size=12",
-            "bold=true",
-            "margin=15,5,15,5"
-          ]
-        },
-          {
-          "Function": "AddStyledText",
-          "Parameters": [
-            "If any mod does not work correctly or gives errors with .ini reading, send me a message.",
-            "color=#FFAA33",
-            "size=12",
-            "bold=true",
-            "margin=15,5,15,5"
-          ]
-        },
-        {
-          "Function": "AddStyledText",
-          "Parameters": [
-            "You can also write anything else related to the program.",
-            "color=#FFAA33",
-            "size=12",
-            "bold=true",
-            "margin=15,5,15,5"
-          ]
-        },
-        {
-          "Function": "AddStyledText",
-          "Parameters": [
-            "Best regards\\nTyrok",
-            "color=#AAAAFF",
-            "size=14",
-            "bold=true",
-            "align=left",
-            "margin=15,10,20,10"
-          ]
-        }
-      ]
-    },
 
-
- {
-      "ID": "wXqfV",
-      "Title": "V8.1 Release (Test2)",
-      "Date": "2025-10-18",
-      "Functions": [
-        {
+  {
           "Function": "AddStyledText",
           "Parameters": [
-            "Before releasing the new version, I need to make sure everything works correctly.",
-            "color=#FFD54F",
-            "size=16",
-            "bold=true",
-            "margin=20,10,20,10"
-          ]
-        },
-        {
-          "Function": "AddStyledText",
-          "Parameters": [
-            "This test is especially important for users who had previous issues with:",
-            "color=#FF6666",
-            "size=14",
-            "bold=true",
-            "margin=15,5,15,5"
-          ]
-        },
-        {
-          "Function": "AddStyledText",
-          "Parameters": [
-            "- Window does not maximize properly",
-            "color=#FFFFFF",
-            "size=12",
-            "margin=15,2,15,2"
-          ]
-        },
-        {
-          "Function": "AddStyledText",
-          "Parameters": [
-            "- Users with multiple monitors or different resolutions",
-            "color=#FFFFFF",
-            "size=12",
-            "margin=15,2,15,2"
-          ]
-        },
-        {
-          "Function": "AddStyledText",
-          "Parameters": [
-            "- Users with 4K monitors may see the program too small",
-            "color=#FFFFFF",
-            "size=12",
-            "margin=15,2,15,2"
-          ]
-        },
-        {
-          "Function": "AddStyledText",
-          "Parameters": [
-            "If the program looks too small, you can change the scale in Settings. If you cannot do it from the UI, follow these steps:",
-            "color=#FFD54F",
-            "size=12",
-            "bold=true",
-            "margin=15,5,15,5"
-          ]
-        },
-        {
-          "Function": "AddStyledText",
-          "Parameters": [
-            "1. Open the program and close it.",
-            "color=#FFFFFF",
-            "size=12",
-            "margin=15,2,15,2"
-          ]
-        },
-        {
-          "Function": "AddStyledText",
-          "Parameters": [
-            "2. Go to the folder Data/App_Settings.json",
-            "color=#FFFFFF",
-            "size=12",
-            "margin=15,2,15,2"
-          ]
-        },
-        {
-          "Function": "AddStyledText",
-          "Parameters": [
-            "3. On the second line, find: \"ScaleApplication\": 1,",
-            "color=#FFFFFF",
-            "size=12",
-            "margin=15,2,15,2"
-          ]
-        },
-        {
-          "Function": "AddStyledText",
-          "Parameters": [
-            "4. Change it to: \"ScaleApplication\": 2,",
-            "color=#FFFFFF",
-            "size=12",
-            "margin=15,2,15,2"
-          ]
-        },
-        {
-          "Function": "AddButton",
-          "Parameters": [
-            "Download SkinSelectImapct_V8.1.T2 Test 2(mega)",
-            "OpenUrl|https://mega.nz/file/xW932QjA#tr-zyXXopthra7h9sPIV2yPrGkCjNdX_ilf6kzLIAb4"
-          ]
-        },
-        {
-          "Function": "AddStyledText",
-          "Parameters": [
-            "After testing, please let me know if the program works correctly or if issues persist. You can contact me using:",
-            "color=#FFD54F",
-            "size=12",
-            "bold=true",
-            "margin=15,5,15,5"
-          ]
-        },
-        {
-          "Function": "AddStyledText",
-          "Parameters": [
-            "- Gamebanana (public comment)",
-            "color=#FFFFFF",
-            "size=12",
-            "margin=15,2,15,2"
-          ]
-        },
-        {
-          "Function": "AddStyledText",
-          "Parameters": [
-            "- Gamebanana (private message)",
-            "color=#FFFFFF",
-            "size=12",
-            "margin=15,2,15,2"
-          ]
-        },
-        {
-          "Function": "AddStyledText",
-          "Parameters": [
-            "- Discord group message",
-            "color=#FFFFFF",
-            "size=12",
-            "margin=15,2,15,2"
-          ]
-        },
-        {
-          "Function": "AddStyledText",
-          "Parameters": [
-            "- Discord private message (tyrok8273)",
-            "color=#FFFFFF",
-            "size=12",
-            "margin=15,2,15,2"
-          ]
-        },
-       {
-          "Function": "AddStyledText",
-          "Parameters": [
-            "V 8.1 changes",
+            "V 8.1 ",
             "color=#FFD54F",
             "size=16",
             "bold=true",
@@ -451,8 +182,28 @@
             "size=12",
             "margin=15,2,15,2"
           ]
-        }      ]
-    }
+            },
+     {
+          "Function": "AddStyledText",
+          "Parameters": [
+            "• Other changes.",
+            "color=#FFFFFF",
+            "size=12",
+            "margin=15,2,15,2"
+            ]
+    },
+
+{
+          "Function": "AddButton",
+          "Parameters": [
+            "Download SkinSelectImpact_V8.1 (Gamebanana)",
+            "OpenUrl|https://gamebanana.com/tools/12839"
+          ]
+        }
+
+   ]
+        }
+
 
 
 
