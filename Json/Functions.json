@@ -9,6 +9,32 @@
       "Name": "ChangeAppIconBig",
       "Parameters": ["https://raw.githubusercontent.com/TyrokSSI/SSI2/main/Resources/IconTest.png"],
       "Enabled": false 
+    },
+
+ {
+      "Name": "TopMessageOnly",
+      "Parameters": ["V8.1.T1","This is a test build (V8.1.T1) V8.1 is now available.","#FFCC00"],
+      "Enabled": true
+    },
+
+ {
+      "Name": "TopMessageOnly",
+      "Parameters": ["V8.1.T2","This is a test build (V8.1.T2) V8.1 is now available.","#FFCC00"],
+      "Enabled": true
+    },
+
+ {
+      "Name": "TopMessageOnly",
+      "Parameters": ["V8.0","V8.1 is now available.","#20BA02"],
+      "Enabled": false
     }
+
+
+
+
+
+
+
+    
   ]
 }
